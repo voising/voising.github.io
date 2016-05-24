@@ -5,13 +5,13 @@
     <description>Guillaume Voisin portfolio. I make Minimum Viable Product (MVP) - E-commerce / E-shop - Corporate website - One page design.</description>
     <link>https://voising.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 01 Dec 2015 00:51:54 +0100</pubDate>
-    <lastBuildDate>Tue, 01 Dec 2015 00:51:54 +0100</lastBuildDate>
+    <pubDate>Tue, 24 May 2016 16:19:42 +0200</pubDate>
+    <lastBuildDate>Tue, 24 May 2016 16:19:42 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Project 1</title>
-        <description>{&quot;fr&quot;=&gt;&quot;Méthodologies Agile - Développements réguliers front et back&quot;, &quot;en&quot;=&gt;&quot;Agile development methodologies - Regular front-end &amp; back-end developments&quot;}</description>
+        <description>{&quot;fr&quot;=&gt;&quot;M\u00E9thodologies Agile - D\u00E9veloppements r\u00E9guliers front et back&quot;, &quot;en&quot;=&gt;&quot;Agile development methodologies - Regular front-end &amp; back-end developments&quot;}</description>
         <pubDate>Tue, 12 May 2015 00:00:00 +0200</pubDate>
         <link>https://voising.github.io/wizville/</link>
         <guid isPermaLink="true">https://voising.github.io/wizville/</guid>
@@ -23,7 +23,7 @@
     
       <item>
         <title>Project 2</title>
-        <description>{&quot;en&quot;=&gt;&quot;E-shop for a brand new clothesline&quot;, &quot;fr&quot;=&gt;&quot;Mise en place d&#39;un e-commerce pour une marque de vêtements bio. Widgets customisés. Formation au SEO.&quot;}</description>
+        <description>{&quot;en&quot;=&gt;&quot;E-shop for a brand new clothesline&quot;, &quot;fr&quot;=&gt;&quot;Mise en place d&#39;un e-commerce pour une marque de v\u00EAtements bio. Widgets customis\u00E9s. Formation au SEO.&quot;}</description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0200</pubDate>
         <link>https://voising.github.io/vertcorps/</link>
         <guid isPermaLink="true">https://voising.github.io/vertcorps/</guid>
