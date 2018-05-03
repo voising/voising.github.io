@@ -4681,6 +4681,8 @@
     .hover-option7 .grid-item figcaption {padding: 20px}
     .hover-option7 .grid-item figure:hover img {top: -83px}
 
+    .max-width-47 { max-width: 100% !important;}
+    .flex-between { flex-direction: column; }
 
     /* breadcrumb */
     .breadcrumb ul > li:after {padding: 0 3px 0 5px}
